@@ -12,7 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 37562b39ff933b245ac2f35d87edbcd6, type: 3}
   m_Name: BlendShape.A
   m_EditorClassIdentifier: 
-  m_prefab: {fileID: 0}
+  m_prefab: {fileID: 4024035024058304222, guid: 61b39448d318549eb9dccb7adbf1312f,
+    type: 3}
   BlendShapeName: A
   Preset: 2
   Values:
